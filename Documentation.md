@@ -68,10 +68,10 @@ _Researched other possible applications to set/get properties and call functions
 
 Touch OSC is a touchscreen MIDI and OSC controll app. It provides a veriety of control shapes & styles, and it is easy to configure each to fit specific preferences. 
 
-![](assets/img/OSC_1.PNG)
+![](assets/img/OSC_1.png)
 _OSC Focus Page._
 
-![](assets/img/OSC_2.PNG)
+![](assets/img/OSC_2.png)
 _OSC Camera Page._
 
 I created a layout for different camera settings and connected the **Touch OSC** with an Unreal Engine scene with a provided Plugin to drive a virtual Camera.
