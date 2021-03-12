@@ -107,13 +107,13 @@ _Camera Page mode._
 
  For testing I placed Cameras inside the scene and created a Blueprint called **CameraManager**. The CameraManager provides different functions to manage the Cameras inside the Scene and which provides all information and functions that are called by the web application as a client.
 
- ![](assets/img/BP_CamManager.png)
+ ![](assets/img/BP_CamManager.PNG)
 
 
 * On Play the CameraManager gets all Cameras inside the Scene and saves them inside an array.
 
 
- ![](assets/img/BP_CamManager_Details.png)
+ ![](assets/img/BP_CamManager_Details.PNG)
 
 
 * Set View Function selectes a Camera which will then be the viewport of the scene.
