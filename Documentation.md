@@ -37,7 +37,7 @@ _finalized the main purpose of the app and reworked Use Case Diagramm and Compon
 
 **Use Case Diagram**
 
-![](assets/img/First_Term_Diagram.PNG)
+![](assets/img/First_Term_Diagram.png)
 _Sequence diagram._
 
 * the User should be able to switch between the different pages on the app
@@ -54,7 +54,7 @@ _Sequence diagram._
 * the User should be able to delete Components
 
 
-![](assets/img/First_Term_Component_Diagram.PNG)
+![](assets/img/First_Term_Component_Diagram.png)
 _Component diagram._
 
 ---
@@ -92,13 +92,13 @@ _Starting to create App with Vue.js_
 _reworked the app design and created an Unreal Scene for testing and setting up functions_
 
 
-![](assets/img/First_Term_EventPage1.PNG)
+![](assets/img/First_Term_EventPage1.png)
 _Event-Page Edit mode._
 
-![](assets/img/First_Term_EventPage2.PNG)
+![](assets/img/First_Term_EventPage2.png)
 _Event-Page Play mode._
 
-![](assets/img/First_Term_CameraPage.PNG)
+![](assets/img/First_Term_CameraPage.png)
 _Camera Page mode._
 
 * as components i decided to have a dial knob for changing the focus, a slider to change the focal length and joysticks for changing the transformation (ideas from Touch OSC)
@@ -107,13 +107,13 @@ _Camera Page mode._
 
  For testing I placed Cameras inside the scene and created a Blueprint called **CameraManager**. The CameraManager provides different functions to manage the Cameras inside the Scene and which provides all information and functions that are called by the web application as a client.
 
- ![](assets/img/BP_CamManager.PNG)
+ ![](assets/img/BP_CamManager.png)
 
 
 * On Play the CameraManager gets all Cameras inside the Scene and saves them inside an array.
 
 
- ![](assets/img/BP_CamManager_Details.PNG)
+ ![](assets/img/BP_CamManager_Details.png)
 
 
 * Set View Function selectes a Camera which will then be the viewport of the scene.
